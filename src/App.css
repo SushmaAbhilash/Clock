@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+body{
+  color: white;
+  background-color: #333;
+}
+
+.time-sets {
+  display: grid;
+  grid-template-columns: 50px 200px 50px;
+  align-items: center;
+  justify-content: center;
+}
+.dual-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 700px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
